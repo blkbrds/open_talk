@@ -13,3 +13,8 @@ Repo này nhằm mục đích thảo luận các vấn đề về technical tron
 - Các vấn đề được tạo bằng cách tạo `issuse` và nếu mong muốn có người giải đáp thì hãy assign người đó vào và thông báo lên team iOS (trên kênh slack)
 - Cố gắng gán nhãn (label) cho các issuse.
 - Giải thích và mô tả đầu đủ và chi tiết nhất có thể.
+
+# Tham khảo
+- [iOS Team MVVM](https://github.com/blkbrds/arch-mvvm-ios)
+- [IOS MVVM Project Boilerplate](https://github.com/AsianTechInc/AT-Boilerplate-iOS-MVVM)
+- [The Official Raywenderlich - Swift Style Guide.](https://github.com/raywenderlich/swift-style-guide)
